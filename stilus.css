@@ -1,0 +1,28 @@
+body{
+    background-color: lightskyblue;
+    color: darkblue;
+}
+
+a{
+    color: firebrick;
+}
+
+h1{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+.nagyt{
+    width: 100%;
+}
+.kist{
+   border: 2px solid black;
+   border-collapse: collapse;
+}
+img{
+    float: left;
+}
+#jobb{
+    float: right;
+}
